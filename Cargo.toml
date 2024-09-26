@@ -1,0 +1,8 @@
+[package]
+name = "skye-chess-gui-angun"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+skye-chess = {git = "https://github.com/INDA24PlusPlus/skye-chess.git"}
+ggez = "0.9.3"
